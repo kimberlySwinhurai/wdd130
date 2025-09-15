@@ -17,6 +17,17 @@ aside img{
 main img{
     width: 200px;
     height:auto;
+  width: 200px;
+  height: auto;
+  border: 1px solid #ccc; 
+  padding: 5px; 
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+
+}
+nav a {
+  color: blue;
+  padding: 10px;
+  display: block;
 }
 
 nav {
@@ -24,11 +35,14 @@ nav {
     padding: 10px;
     p{padding: 0;}
 }
+h1 {
+  color: blue;
+}
 p {
  padding: 0;
 }
-footer{
-    margin-top: 15px;
-    margin-bottom: 1px solid #000;
-    text-align: center;
+footer {
+  margin-top: 15px;
+  border-top: 1px solid #000;
+  text-align: center;
 }
