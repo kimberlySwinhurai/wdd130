@@ -21,7 +21,7 @@ main img{
   height: auto;
   border: 1px solid #ccc; 
   padding: 5px; 
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+  box-shadow: 2px 2px 5px rgba(12, 4, 4, 0.3); 
 
 }
 nav a {
