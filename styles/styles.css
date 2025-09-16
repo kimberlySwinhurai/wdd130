@@ -11,6 +11,14 @@ aside {
     color: #333;
     text-align: center;
 }
+aside img, 
+main img {
+    width: 200px;
+    height: auto;
+    border: 1px solid black; 
+    padding: 2px; 
+    box-shadow: 0px 0px 30px grey; 
+}
 
 aside img {
     width: 200px;
